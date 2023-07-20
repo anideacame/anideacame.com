@@ -1,5 +1,5 @@
 === Live Age by anideacame.com ===
-Contributors: anideacame
+Contributors: anideacame.com
 Tags: Biography, Age, Live Age, Display Current Age 
 Requires at least: 8.0
 Tested up to: 6.2.2
